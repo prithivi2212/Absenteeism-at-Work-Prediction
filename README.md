@@ -33,16 +33,13 @@ Best Performing Model: Random Forest Regressor
 ---
 
 ## Project Structure
-Absenteeism-at-Work-Prediction/
-├── data/
-│   └── MFGEmployees4.csv
-├── notebooks/
-│   └── main.ipynb
-├── report/
-│   └──Absenteeism_Project_Report_Submission_Ready.docx
-├── requirements.txt
-├── README.md
-└── .gitignore
+Absenteeism-at-Work-Prediction.
+* data - MFGEmployees4.csv
+* notebooks - main.ipynb
+* report - Absenteeism_Project_Report_Submission_Ready.docx
+* requirements.txt
+* README.md
+* .gitignore
 
 ---
 
