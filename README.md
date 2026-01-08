@@ -9,7 +9,7 @@ The project was developed as part of an academic/certification requirement and f
 ---
 
 ## Dataset Description
-- Dataset size: 8,335 rows × 13 columns
+- Dataset size: 8,336 rows × 13 columns
 - Target variable: AbsentHours
 - Features include demographic, organizational, and employment attributes
 
